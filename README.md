@@ -1,7 +1,7 @@
 
 # QR Code Generator
 
-Welcome to this repository containing a simple QR Code Generator in Python.
+Welcome to this repository containing a simple QR Code Generator in Python!
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to this repository containing a simple QR Code Generator in Python.
 
 ## Introduction
 
-The following code contains a simple QR Code generator available for your utilization.
+This repository houses a straightforward yet effective tool for generating QR codes, ready for your use. Whether you're looking to encode URLs, text, or other data, this code provides a convenient solution for creating QR codes effortlessly.
 
 ## Dependencies
 
