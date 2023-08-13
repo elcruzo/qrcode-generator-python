@@ -9,7 +9,7 @@ qr.add_data("https://elcruzo.github.io/my-diary/")
 qr.make(fit=True)
 
 img = qr.make_image(fill_color="black", back_color="white")
-img.save("advanced.png")
+img.save("myqrcode.png")
 
 
 
